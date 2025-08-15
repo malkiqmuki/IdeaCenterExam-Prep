@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GdoXV6ZCLPM=",
+  "dgSpecHash": "YWkl0xVYMzM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dancho&Svetla\\source\\repos\\IdeaCenterExamPrep\\IdeaCenterExamPrep\\IdeaCenterExamPrep.csproj",
+  "projectFilePath": "C:\\Users\\Dancho&Svetla\\Desktop\\GitHubrepo\\IdeaCenterExam-Prep\\IdeaCenterExamPrep\\IdeaCenterExamPrep.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dancho&Svetla\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Dancho&Svetla\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

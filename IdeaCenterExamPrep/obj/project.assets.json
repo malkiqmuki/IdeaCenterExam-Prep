@@ -1027,11 +1027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dancho&Svetla\\source\\repos\\IdeaCenterExamPrep\\IdeaCenterExamPrep\\IdeaCenterExamPrep.csproj",
+      "projectUniqueName": "C:\\Users\\Dancho&Svetla\\Desktop\\GitHubrepo\\IdeaCenterExam-Prep\\IdeaCenterExamPrep\\IdeaCenterExamPrep.csproj",
       "projectName": "IdeaCenterExamPrep",
-      "projectPath": "C:\\Users\\Dancho&Svetla\\source\\repos\\IdeaCenterExamPrep\\IdeaCenterExamPrep\\IdeaCenterExamPrep.csproj",
+      "projectPath": "C:\\Users\\Dancho&Svetla\\Desktop\\GitHubrepo\\IdeaCenterExam-Prep\\IdeaCenterExamPrep\\IdeaCenterExamPrep.csproj",
       "packagesPath": "C:\\Users\\Dancho&Svetla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dancho&Svetla\\source\\repos\\IdeaCenterExamPrep\\IdeaCenterExamPrep\\obj\\",
+      "outputPath": "C:\\Users\\Dancho&Svetla\\Desktop\\GitHubrepo\\IdeaCenterExam-Prep\\IdeaCenterExamPrep\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
