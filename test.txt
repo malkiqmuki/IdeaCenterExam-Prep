@@ -1,1 +1,6 @@
 First test is about to be executed and tested for the first time!
+
+Some new text has been added recently!
+Your task is to ensure that everything goes well after the commit!
+If you see any errors or potential problems let us know in the feedback section!
+Greetings from the DEV team!!!
