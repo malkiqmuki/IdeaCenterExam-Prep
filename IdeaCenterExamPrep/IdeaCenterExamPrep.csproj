@@ -9,9 +9,6 @@
     <IsTestProject>true</IsTestProject>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="IdeaCenterAPITests.cs" />
-  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.0" />
