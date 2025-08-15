@@ -4,3 +4,6 @@ Some new text has been added recently!
 Your task is to ensure that everything goes well after the commit!
 If you see any errors or potential problems let us know in the feedback section!
 Greetings from the DEV team!!!
+
+
+Putting some extra text here to test if everything runs well and with no errors occured!
