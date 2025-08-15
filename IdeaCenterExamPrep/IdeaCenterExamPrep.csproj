@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="C:\Users\Dancho&amp;Svetla\Desktop\GitHubrepo\IdeaCenterExam-Prep\IdeaCenterAPITests.cs" Link="IdeaCenterAPITests.cs" />
+    <Compile Include="IdeaCenterAPITests.cs" />
   </ItemGroup>
 
   <ItemGroup>
